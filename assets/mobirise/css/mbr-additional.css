@@ -1465,6 +1465,9 @@ body {
 .cid-rdsEpomHt7 .card-img {
   text-align: left;
 }
+.cid-rdsEpomHt7 P {
+  text-align: left;
+}
 .cid-rdsEm4SmJe {
   padding-top: 30px;
   padding-bottom: 30px;
@@ -1480,6 +1483,7 @@ body {
 .cid-rdsEm4SmJe .section-text {
   padding: 2rem 0;
   color: #232323;
+  text-align: left;
 }
 .cid-rdsEm4SmJe .inner-container {
   margin: 0 auto;
@@ -1488,6 +1492,9 @@ body {
   .cid-rdsEm4SmJe .inner-container {
     width: 100% !important;
   }
+}
+.cid-rdsEm4SmJe .section-text DIV {
+  text-align: left;
 }
 .cid-rdxRPDyzPF {
   padding-top: 60px;
